@@ -15,14 +15,12 @@ recipes = db.recipes
 
 recipe0 = {
 	"product": "health1",
-	"content": "fultterfly, creature eyeball, tasty herb"
+	"content": "flutterfly, creature eyeball, tasty herb"
 }
-
 recipe1 = {
 	"product": "mana1",
 	"content": "tasty herb, flutterfly, creature eyeball"
 }
-
 recipe2 = {
 	"product": "health2",
 	"content": "some berry, turd, glowfly"
